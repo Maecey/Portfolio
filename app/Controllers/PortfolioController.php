@@ -9,7 +9,7 @@ class PortfolioController extends BaseController
 {
     public function index()
     {
-        return view('PortfolioController');
+        return view('index');
     }
 
 }
